@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Main{
 
-    private static final String EMPLOYEE_FILE_NAME = "./Employees.txt";
+    private static final String EMPLOYEE_FILE_NAME = "./Employees/Employees.txt";
 
     public static void main(String[] args)  {
         FileOperations fileOperations = new FileOperations();
